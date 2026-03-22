@@ -33,6 +33,11 @@ Desarrollar un sistema de gestión y auditoría de bodegas que permita registrar
 - **MySQL** con triggers y constraints para integridad
 - **Scripts SQL** incluidos en `SQL/modelos/` y `SQL/script/`
 
+
+## 📸 Capturas de pantalla
+
+![](./Frontend/img/logitrack%20(1).gif) 
+
 ## Requisitos Funcionales
 
 ### 1. Gestión de Bodegas
